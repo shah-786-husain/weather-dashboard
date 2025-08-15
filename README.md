@@ -26,3 +26,4 @@ LocalStorage – Persistent favorites
 # bash
 git clone https://github.com/shah-786-husain/weather-dashboard.git
 cd weather-dashboard
+npm start
